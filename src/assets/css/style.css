@@ -1,0 +1,16 @@
+.home-background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.align-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    padding-top: 100px;
+}
+.full-width {
+    width: 100%;
+}
